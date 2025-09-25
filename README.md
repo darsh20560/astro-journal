@@ -84,4 +84,7 @@ Implement a simple daily reminder using `expo-notifications` from a helper (not 
 
 ## Notes
 - No external DB; all data is local via AsyncStorage.
-- Code style favors clarity and explicit naming. 
+- Code style favors clarity and explicit naming.
+
+## Drive link to the Demo:
+[Video Link](https://drive.google.com/file/d/1KKTjV6p0HV7a7TSNDAnYllhQUQ4ZxRMZ/view?usp=sharing)
